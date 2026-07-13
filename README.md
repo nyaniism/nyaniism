@@ -1,6 +1,6 @@
   <div align="center">
      
-<img width="64" alt="Image" src="https://github.com/user-attachments/assets/3fbb5881-75d1-4d33-a903-1eaa091b1107" />　　　　♬𓈒　　　　[![hi](https://img.shields.io/badge/　ꣀꦌ_ata-૮߹༝߹_𑁬-3021CC?style=for-the-badge&labelColor=white)](https://arrwz.atabook.org)
+<img width="64" alt="Image" src="https://github.com/user-attachments/assets/3fbb5881-75d1-4d33-a903-1eaa091b1107" />　　　　♬𓈒　　　　[![hi](https://img.shields.io/badge/　ꣀꦌ_ata-૮߹༝߹_𑁬-3021CC?style=for-the-badge&labelColor=white)](https://yuriiful.atabook.org)
 
 ####
      
