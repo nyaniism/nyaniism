@@ -1,7 +1,6 @@
   <div align="center">
      
-<img width="64" alt="Image" src="https://github.com/user-attachments/assets/3fbb5881-75d1-4d33-a903-1eaa091b1107" />　　　　♬𓈒　　　　[![hi](https://img.shields.io/badge/　ꣀꦌ_ata-૮߹༝߹_𑁬-3021CC?style=for-the-badge&labelColor=white)](https://yuriiful.atabook.org)
-
+♬　　　　![Github Views](https://views.igorkowalczyk.dev/api/badge/clownzyj?label=clownzy+♡&labelColor=753146&color=ffffff)
 ####
      
-<img width="460" alt="Image" src="https://github.com/user-attachments/assets/e06fb6c7-bff1-4ea8-99ea-de74b8c65349" />
+<img width="360" alt="Image" src="https://github.com/user-attachments/assets/9674339f-0b55-4a5e-aa9f-03744739ff4e" />
