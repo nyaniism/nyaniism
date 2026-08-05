@@ -7,7 +7,7 @@ $\text{\color{#DD98A5} go}$　 $\text{\color{#B78FC7} sign}$　 $\text{\color{#A
 <details>
 <summary> $\text{\color{#B78FC7} ᓚᘏᗢ}$ </summary><br>
 
-  <img width="200" alt="Image" src="https://github.com/user-attachments/assets/e2983c4d-90a8-4de2-9d85-c5863bbdfd37" />
+<img width="790" alt="Image" src="https://github.com/user-attachments/assets/0bcbf11b-ba01-4ee2-b47f-4d0fef9cc34e" />
   
   </details>
   
