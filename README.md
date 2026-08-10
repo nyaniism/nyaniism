@@ -7,7 +7,7 @@
 
 $\text{\color{#FFFFFC} go　  sign　  my}$  　[ata](https://c-utesy.atabook.org) 　　         $\text{\color{#FFD6F7}‎ㆍωㆍ}$　  $\text{\color{#F72A39}.ᐟ}$
 
-$\text{\color{#FFFFFC} or　  check　  my}$  　[fluffle](https://c-utesy.atabook.org) 　　  $\text{\color{#FFD6F7}՞´ཀ`՞}$　  $\text{\color{#F72A39}.ᐣ}$
+$\text{\color{#FFFFFC} or　  check　  my}$  　[fluffle](https://fluffle.cc/sonico.cc) 　　  $\text{\color{#FFD6F7}՞´ཀ`՞}$　  $\text{\color{#F72A39}.ᐣ}$
 
 <details>
 <summary> $\text{\color{#F72A39} ᓚᘏᗢ}$ </summary><br>
