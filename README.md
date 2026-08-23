@@ -7,10 +7,9 @@
 
 $\text{\color{#FFFFFC} go　  sign　  my}$  　[ata](https://c-utesy.atabook.org) 　　         $\text{\color{#FFD6F7}‎ㆍωㆍ}$　  $\text{\color{#F72A39}.ᐟ}$
 
-$\text{\color{#FFFFFC} or　  check　  my}$  　[fluffle](https://fluffle.cc/2gate) 　　  $\text{\color{#FFD6F7}՞´ཀ`՞}$　  $\text{\color{#F72A39}.ᐣ}$
-
 <details>
 <summary> $\text{\color{#F72A39} ᓚᘏᗢ}$ </summary><br>
 <img width="360" alt="Image" src="https://github.com/user-attachments/assets/0bcbf11b-ba01-4ee2-b47f-4d0fef9cc34e" />
-<img width="360" alt="Image" src="https://github.com/user-attachments/assets/aec6ca72-59fa-44eb-83c8-6ec29aa50856" />  
+<img width="360" alt="Image" src="https://github.com/user-attachments/assets/aec6ca72-59fa-44eb-83c8-6ec29aa50856" /> 
+<img width="360" alt="Image" src="https://github.com/user-attachments/assets/b226f415-5aad-4aae-8df0-bc264b157834" />
   </details>
