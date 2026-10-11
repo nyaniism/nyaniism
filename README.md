@@ -7,9 +7,9 @@
 
 ###
 <details>
-<summary> $\text{\color{#fcb4e2} ᓚᘏᗢ}$ </summary><br>
+<summary> $\text{\color{#5F4024} ᓚᘏᗢ}$ </summary><br>
 <img width="360" alt="Image" src="https://github.com/user-attachments/assets/0bcbf11b-ba01-4ee2-b47f-4d0fef9cc34e" />
-  
+
 ###
 
 <img width="360" alt="Image" src="https://github.com/user-attachments/assets/aec6ca72-59fa-44eb-83c8-6ec29aa50856" /> 
