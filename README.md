@@ -1,9 +1,11 @@
 <div align ="center">
-  
-![Github Views](https://views.igorkowalczyk.dev/api/badge/clownzyj?label=𓂃۶ৎ+Bless&labelColor=ffffff&color=56cbeb)
 
-<img width="108" alt="Image" src="https://github.com/user-attachments/assets/8b9645f9-2f29-4db4-a3ac-acea3e4c311d" />
+<img width="222" alt="Image" src="https://github.com/user-attachments/assets/202556b6-afae-405e-91b6-3f7a736cc1be" />
 
+###
+<img width="136" alt="Image" src="https://github.com/user-attachments/assets/b5517174-aba7-42ac-8da8-e80ba295eb4b" />
+
+###
 <details>
 <summary> $\text{\color{#fcb4e2} ᓚᘏᗢ}$ </summary><br>
 <img width="360" alt="Image" src="https://github.com/user-attachments/assets/0bcbf11b-ba01-4ee2-b47f-4d0fef9cc34e" />
